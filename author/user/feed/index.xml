@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>user&#039;s Blog!</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<title>user &#8211; user&#039;s Blog!</title>
+	<atom:link href="/author/user/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sun, 28 May 2017 16:49:15 +0000</lastBuildDate>

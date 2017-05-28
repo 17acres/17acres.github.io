@@ -6,16 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments for user&#039;s Blog!</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<title>Comments on: Hello world!</title>
+	<atom:link href="/2017/05/28/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>/2017/05/28/hello-world/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sun, 28 May 2017 16:49:15 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.7.5</generator>
 	<item>
-		<title>Comment on Hello world! by A WordPress Commenter</title>
+		<title>By: A WordPress Commenter</title>
 		<link>/2017/05/28/hello-world/#comment-1</link>
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sun, 28 May 2017 16:49:15 +0000</pubDate>
