@@ -1,0 +1,480 @@
+# Translation of Plugins - Simply Static - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Simply Static - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-11-26 14:17:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Simply Static - Stable (latest release)\n"
+
+#: includes/class-simply-static.php:551
+msgid "View what changed in this version"
+msgstr "Sieh dir an, was sich mit dieser Version geändert hat"
+
+#: includes/class-simply-static.php:551
+msgid "Simply Static Version"
+msgstr "Simply Static Version"
+
+#: includes/class-simply-static.php:535
+msgid "Enjoying Simply Static? Add your [stars] on wordpress.org."
+msgstr "Gefällt dir Simply Static? Verteile [stars] auf WordPress.org."
+
+#: includes/class-simply-static.php:531
+msgid "Contact Support"
+msgstr "Support kontaktieren"
+
+#: includes/class-simply-static.php:304 includes/class-simply-static.php:336
+#: includes/class-simply-static.php:359 includes/class-simply-static.php:564
+msgid "Not permitted"
+msgstr "Unzulässig"
+
+#: views/settings.php:76
+msgid "Convert all URLs for your WordPress site so that you can browse the site locally on your own computer without hosting it on a web server."
+msgstr "Konvertiere alle URLs deiner WordPress-Website, sodass du die Website lokal auf deinem Computer nutzen kannst, ohne dafür einen Webserver zu brauchen."
+
+#: views/settings.php:74
+msgid "Save for offline use"
+msgstr "Für Offline-Nutzung speichern"
+
+#: views/settings.php:62
+msgid "Example: enter <code>/path/</code> above if you wanted to serve your files at <code>www.example.com<b>/path/</b></code>"
+msgstr "Beispiel: Gib <code>/pfad/</code> oben ein, wenn du deine Dateien auf  <code>www.example.com<b>/pfad/</b></code> bereitstellen willst."
+
+#: views/settings.php:61
+msgid "Convert all URLs for your WordPress site to relative URLs that will work at any domain. Optionally specify a path above if you intend to place the files in a subdirectory."
+msgstr "Konvertiere alle URLs deiner WordPress-Website in relative URLs, sodass die Website auf jeder Domain funktioniert. Optional kannst du einen übergeordneten Pfad angeben, falls du die Dateien in einem Unterverzeichnis ablegen willst."
+
+#: views/settings.php:58
+msgid "Use relative URLs"
+msgstr "Benutze relative URLs"
+
+#: views/settings.php:47
+msgid "Convert all URLs for your WordPress site to absolute URLs at the domain specified above."
+msgstr "Konvertiere alle URLs deiner WordPress-Website in absolute URLs der oben angegebenen Domain."
+
+#: views/settings.php:46
+msgid "www.example.com/"
+msgstr "www.example.com/"
+
+#: views/settings.php:40
+msgid "Use absolute URLs"
+msgstr "Benutze absolute URLs"
+
+#: views/settings.php:30
+msgid "When exporting your static site, any links to your WordPress site will be replaced by one of the following: absolute URLs, relative URLs, or URLs contructed for offline use:"
+msgstr "Wenn der Export deiner statischen Website erstellt wird, werden alle Links deiner WordPress-Website durch folgende ersetzt: absolute URLs, relative URLs oder URLs zur Offline-Nutzung."
+
+#: views/settings.php:181
+msgid "fancy.pdf"
+msgstr "fancy.pdf"
+
+#: views/settings.php:180
+msgid "additional-directory/"
+msgstr "additional-directory/"
+
+#: views/settings.php:178
+msgid "Sometimes you may want to include additional files (such as files referenced via AJAX) or directories. Add the paths to those files or directories here (one per line)."
+msgstr "Manchmal will man zusätzliche Dateien (z.B. Dateien auf die via AJAX referenziert wird) oder Verzeichnisse integrieren. Füge die Pfade zu diesen Dateien oder Verzeichnissen hier ein (einen pro Zeile)."
+
+#: views/settings.php:173
+msgid "Additional Files and Directories"
+msgstr "Zusätzliche Dateien und Verzeichnisse"
+
+#: views/settings.php:167
+msgid "/images/secret.jpg"
+msgstr "/images/secret.jpg"
+
+#: views/settings.php:166
+msgid "/hidden-page/"
+msgstr "/hidden-page/"
+
+#: views/settings.php:165 views/settings.php:179
+msgid "Examples: <code>%s</code> or <code>%s</code>"
+msgstr "Beispiele: <code>%s</code> oder <code>%s</code>"
+
+#: views/settings.php:164
+msgid "Simply Static will create a static copy of any page it can find a link to, starting at %s. If you want to create static copies of pages or files that <em>aren't</em> linked to, add the URLs here (one per line)."
+msgstr "Simply Static wird von jeder Seite, auf die es einen Link findet, eine statische Kopie anlegen, beginnend bei %s. Falls du statische Kopien von Seiten oder Dateien erstellen willst, die <em>nicht</em> verlinkt sind, dann füge die URLs hier ein (eine pro Zeile)."
+
+#: views/settings.php:159
+msgid "Additional URLs"
+msgstr "Zusätzliche URLs"
+
+#: views/settings.php:153
+msgid "Static files are temporarily saved to the directory above before being copied to their destination. These files can be deleted after the copy process, or you can keep them as a backup."
+msgstr "Es werden temporär statische Dateien im obigen Verzeichnis gespeichert, bevor diese in ihr Ziel-Verzeichnis kopiert werden. Diese Dateien können nach dem Kopieren gelöscht oder als Backup behalten werden."
+
+#: views/settings.php:150
+msgid "Delete temporary files"
+msgstr "Temporäre Dateien löschen"
+
+#: views/settings.php:141
+msgid "Default: <code>%s</code>"
+msgstr "Standard: <code>%s</code>"
+
+#: views/settings.php:140
+msgid "Your static files (and ZIP archives, if generated) are temporarily saved to this directory. This directory must exist and be writeable."
+msgstr "Deine statischen Dateien (und ZIP-Archive, falls diese generiert wurden) werden in diesem Verzeichnis temporär gespeichert. Das Verzeichnis muss existieren und Schreibrechte haben."
+
+#: views/settings.php:134
+msgid "Temporary Files Directory"
+msgstr "Verzeichnis für Temporäre Dateien"
+
+#: views/settings.php:120 views/settings.php:189
+msgid "Save Changes"
+msgstr "Änderungen übernehmen"
+
+#: views/settings.php:112
+msgid "Example: <code>%s</code>"
+msgstr "Beispiel: <code>%s</code>"
+
+#: views/settings.php:111
+msgid "This is the directory where your static files will be saved. The directory must exist and be writeable by the webserver."
+msgstr "Das ist das Verzeichnis, in dem deine statischen Dateien gespeichert werden. Das Verzeichnis muss existieren und Schreibrechte für deinen Webserver haben."
+
+#: views/settings.php:100
+msgid "Saving your static files to a local directory is useful if you want to serve your static files from the same server as your WordPress installation. WordPress can live on a subdomain (e.g. wordpress.example.com) while your static files are served from your primary domain (e.g. www.example.com)."
+msgstr "Wenn du deine statischen Dateien auf dem selben Server hosten willst, wie deine WordPress-Installation, dann ist es nützlich deine statischen Dateien in einem lokalen Verzeichnis abzuspeichern. Deine WordPress-Installation kann unter einer Subdomain installiert sein (z.B. wordpress.example.com), und deine statischen Dateien können auf der primären Domain (z.B. www.example.com) gehostet werden."
+
+#: views/settings.php:94
+msgid "Saving your static files to a ZIP archive is Simply Static's default delivery method. After generating your static files you will be provided with a link to download the ZIP archive."
+msgstr "Die Standard Auslieferungs-Methode von Simply Static ist, deine statischen Dateien als ZIP-Archiv zu speichern. Nachdem die statischen Dateien generiert wurden, wirst du aufgefordert das ZIP-Archiv runterzuladen."
+
+#: views/settings.php:87 views/settings.php:105
+msgid "Local Directory"
+msgstr "Lokales Verzeichnis"
+
+#: views/settings.php:86
+msgid "ZIP Archive"
+msgstr "ZIP-Archiv"
+
+#: views/settings.php:83
+msgid "Delivery Method"
+msgstr "Auslieferungs-Methode"
+
+#: views/settings.php:27
+msgid "Destination URLs"
+msgstr "Ziel URLs"
+
+#: views/settings.php:18
+msgid "Advanced"
+msgstr "Fortgeschritten"
+
+#: views/settings.php:17
+msgid "General"
+msgstr "Allgemein"
+
+#: views/settings.php:7
+msgid "Simply Static &rsaquo; Settings"
+msgstr "Simply Static &rsaquo; Einstellungen"
+
+#: views/redirect.php:12
+msgid "You are being redirected to %s"
+msgstr "Du wirst auf %s weitergeleitet"
+
+#: views/redirect.php:4
+msgid "Redirecting..."
+msgstr "Weiterleiten&#160;&hellip;"
+
+#: views/layouts/admin.php:38
+msgid "Subscribe"
+msgstr "Abonnieren"
+
+#: views/layouts/admin.php:35
+msgid "email address"
+msgstr "E-Mail-Adresse"
+
+#: views/layouts/admin.php:29
+msgid "Join the mailing list to be notified when new features and plugins are released."
+msgstr "Trag dich in die Mailing-Liste ein, damit du benachrichtigt wirst, sobald neue Funktionen und Plugins veröffentlicht werden."
+
+#: views/layouts/admin.php:26
+msgid "Like this plugin?"
+msgstr "Dir gefällt dieses Plugin?"
+
+#: views/generate.php:30
+msgid "Export Log"
+msgstr "Export-Log"
+
+#: views/generate.php:25
+msgid "Activity Log"
+msgstr "Aktivitäts-Log"
+
+#: views/generate.php:20
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: views/generate.php:18
+msgid "Resume"
+msgstr "Fortsetzen"
+
+#: views/generate.php:16
+msgid "Pause"
+msgstr "Pause"
+
+#: views/generate.php:14
+msgid "Generate Static Files"
+msgstr "Generiere die statischen Dateien"
+
+#: views/generate.php:7
+msgid "Simply Static &rsaquo; Generate"
+msgstr "Simply Static &rsaquo; Generieren"
+
+#: views/diagnostics.php:7
+msgid "Simply Static &rsaquo; Diagnostics"
+msgstr "Simply Static &rsaquo; Diagnosen"
+
+#: views/_pagination.php:11
+msgid "%d URLs"
+msgstr "%d URLs"
+
+#: views/_pagination.php:7
+msgid "<a href='https://en.wikipedia.org/wiki/List_of_HTTP_status_codes'>More info on HTTP status codes</a>"
+msgstr "<a href='https://en.wikipedia.org/wiki/List_of_HTTP_status_codes'>Mehr Infos zu HTTP status codes (engl.)</a>"
+
+#: views/_pagination.php:6
+msgid "5xx Server Error:"
+msgstr "5xx Server Fehler:"
+
+#: views/_pagination.php:5
+msgid "4xx Client Error:"
+msgstr "4xx Client Fehler:"
+
+#: views/_pagination.php:4
+msgid "3xx Redirection:"
+msgstr "3xx Weiterleitung:"
+
+#: views/_pagination.php:3
+msgid "2xx Success:"
+msgstr "2xx Erfolg:"
+
+#: views/_pagination.php:2
+msgid "1xx Informational:"
+msgstr "1xx Information:"
+
+#: views/_export_log.php:16
+msgid "Errors (%d)"
+msgstr "Fehler (%d)"
+
+#: views/_export_log.php:14
+msgid "Found on"
+msgstr "Gefunden am"
+
+#: views/_export_log.php:13
+msgid "URL"
+msgstr "URL"
+
+#: views/_export_log.php:12
+msgid "Code"
+msgstr "Code"
+
+#: includes/class-simply-static.php:285
+msgid "Diagnostics"
+msgstr "Diagnostik"
+
+#: includes/class-simply-static.php:284
+msgid "Simply Static Diagnostics"
+msgstr "Simply Static Diagnostik"
+
+#: includes/class-simply-static-diagnostic.php:240
+msgid "Checking for cURL support"
+msgstr "Prüfe auf cURL Unterstützung"
+
+#: includes/class-simply-static-diagnostic.php:231
+msgid "Checking if PHP version >= %s"
+msgstr "Prüfe, ob PHP Version >= %s"
+
+#: includes/class-simply-static-diagnostic.php:223
+msgid "Checking if MySQL user has <code>DROP</code> privilege"
+msgstr "Prüfe, ob MySQL Benutzer <code>DROP</code> Rechte hat"
+
+#: includes/class-simply-static-diagnostic.php:215
+msgid "Checking if MySQL user has <code>ALTER</code> privilege"
+msgstr "Prüfe, ob MySQL Benutzer <code>ALTER</code> Rechte hat"
+
+#: includes/class-simply-static-diagnostic.php:207
+msgid "Checking if MySQL user has <code>CREATE</code> privilege"
+msgstr "Prüfe, ob MySQL Benutzer <code>CREATE</code> Rechte hat"
+
+#: includes/class-simply-static-diagnostic.php:199
+msgid "Checking if MySQL user has <code>SELECT</code> privilege"
+msgstr "Prüfe, ob MySQL Benutzer <code>SELECT</code> Rechte hat"
+
+#: includes/class-simply-static-diagnostic.php:191
+msgid "Checking if MySQL user has <code>INSERT</code> privilege"
+msgstr "Prüfe, ob MySQL Benutzer <code>INSERT</code> Rechte hat"
+
+#: includes/class-simply-static-diagnostic.php:183
+msgid "Checking if MySQL user has <code>DELETE</code> privilege"
+msgstr "Prüfe, ob MySQL Benutzer <code>DELETE</code> Rechte hat"
+
+#: includes/class-simply-static-diagnostic.php:175
+msgid "Checking if web server can write to Local Directory: <code>%s</code>"
+msgstr "Prüfe, ob der Webserver in das lokale Verzeichnis schreiben kann: <code>%s</code>"
+
+#: includes/class-simply-static-diagnostic.php:166
+msgid "Checking if web server can write to Temp Files Directory: <code>%s</code>"
+msgstr "Prüfe, ob der Webserer in das Verzeichnis für Temporären Dateien schreiben kann: <code>%s</code>"
+
+#: includes/class-simply-static-diagnostic.php:157
+msgid "Checking if web server can read from Temp Files Directory: <code>%s</code>"
+msgstr "Prüfe, ob der Webserer aus dem Verzeichnis der Temporären Dateien lesen kann: <code>%s</code>"
+
+#: includes/class-simply-static-diagnostic.php:148
+msgid "Checking if WordPress permalink structure is set"
+msgstr "Prüfe, ob die WordPress Permalink-Struktur gesetzt ist"
+
+#: includes/class-simply-static-diagnostic.php:134
+msgid "Not readable"
+msgstr "Nicht lesbar"
+
+#: includes/class-simply-static-diagnostic.php:131
+msgid "Not a valid path"
+msgstr "Kein gültiger Pfad"
+
+#: includes/class-simply-static-diagnostic.php:128
+msgid "Checking if Additional File/Dir <code>%s</code> is valid"
+msgstr "Prüfe, ob das zusätzliche Datei-Verzeichnis <code>%s</code> gültig ist"
+
+#: includes/class-simply-static-diagnostic.php:114
+msgid "Not a local URL"
+msgstr "Keine lokale URL"
+
+#: includes/class-simply-static-diagnostic.php:111
+msgid "Not a valid URL"
+msgstr "Keine gültige URL"
+
+#: includes/class-simply-static-diagnostic.php:108
+msgid "Checking if Additional URL <code>%s</code> is valid"
+msgstr "Prüfe, ob die zusätzliche URL <code>%s</code> gültig ist"
+
+#: includes/class-simply-static-diagnostic.php:100
+msgid "Checking if Destination URL <code>%s</code> is valid"
+msgstr "Prüfe, ob Ziel URL <code>%s</code> gültig ist"
+
+#: includes/class-simply-static-diagnostic.php:88
+msgid "FAIL"
+msgstr "FEHLGESCHLAGEN"
+
+#: includes/class-simply-static-diagnostic.php:88
+msgid "OK"
+msgstr "OK"
+
+#: includes/class-simply-static-archive-manager.php:456
+msgid "Error: %s"
+msgstr "Fehler: %s"
+
+#: includes/class-simply-static-archive-manager.php:430
+msgid "An error occurred: %s"
+msgstr "Ein Fehler ist aufgetreten: %s"
+
+#: includes/class-simply-static-archive-manager.php:420
+msgid "An exception occurred: %s"
+msgstr "Ein Ausnahmefall ist aufgetreten: %s"
+
+#: includes/class-simply-static-archive-manager.php:413
+msgid "Cancelled"
+msgstr "Abgebrochen"
+
+#: includes/class-simply-static-archive-manager.php:403
+msgid "Done! Finished in %s"
+msgstr "Fertig! Beendet in %s"
+
+#: includes/class-simply-static-archive-manager.php:381
+msgid "Wrapping up"
+msgstr "Verpacke"
+
+#: includes/class-simply-static-archive-manager.php:365
+msgid "Destination URL:"
+msgstr "Ziel URL:"
+
+#: includes/class-simply-static-archive-manager.php:355
+msgid "Copied %d of %d files"
+msgstr "%d von %d Dateien kopiert"
+
+#: includes/class-simply-static-archive-manager.php:318
+msgid "Fetched %d of %d pages/files"
+msgstr "%d von %d Seiten/Dateien verarbeitet"
+
+#: includes/class-simply-static-archive-manager.php:273
+msgid "Setting up"
+msgstr "Konfiguriere"
+
+#: includes/class-simply-static-archive-manager.php:270
+msgid "%s has started generating static files"
+msgstr "%s hat begonnen statische Dateien zu generieren"
+
+#. Author URI of the plugin/theme
+msgid "http://codeofconduct.co/"
+msgstr "http://codeofconduct.co/"
+
+#. Author of the plugin/theme
+msgid "Code of Conduct"
+msgstr "Code of Conduct"
+
+#. Description of the plugin/theme
+msgid "Produces a static HTML version of your WordPress install and adjusts URLs accordingly."
+msgstr "Erstellt von deiner WordPress Installation eine statische HTML Version, und passt die URLs entsprechend an."
+
+#. Plugin URI of the plugin/theme
+msgid "http://codeofconduct.co/simply-static"
+msgstr "http://codeofconduct.co/simply-static"
+
+#: includes/class-simply-static.php:410 includes/class-simply-static.php:435
+msgid "Settings saved."
+msgstr "Einstellungen gespeichert."
+
+#: includes/class-simply-static-archive-manager.php:343
+msgid "Click here to download"
+msgstr "Klicke hier zum Download."
+
+#: includes/class-simply-static-archive-manager.php:342
+msgid "ZIP archive created: "
+msgstr "ZIP-Archiv erstellt:"
+
+#: includes/class-simply-static.php:276
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: includes/class-simply-static.php:267
+msgid "Generate"
+msgstr "Generieren"
+
+#: includes/class-simply-static.php:266
+msgid "Generate Static Site"
+msgstr "Generiere eine Statische Website"
+
+#. #-#-#-#-#  tmp-simply-static.pot (Simply Static 1.8.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/class-simply-static.php:256 includes/class-simply-static.php:257
+msgid "Simply Static"
+msgstr "Simply Static"
+
+#: includes/class-simply-static.php:275
+msgid "Simply Static Settings"
+msgstr "Simply Static Einstellungen"
+
+#: includes/class-simply-static-view.php:138
+msgid "Can't find view layout: %s"
+msgstr "Konnte &#8222;Layout Ansicht&#8220; nicht finden: %s"
+
+#: includes/class-simply-static-view.php:132
+msgid "Can't find view template: %s"
+msgstr "Konnte &#8222;Template Ansicht&#8220; nicht finden: %s"
+
+#: includes/class-simply-static-url-fetcher.php:68
+msgid "Attempting to fetch remote URL: %s"
+msgstr "Versuche die entfernte URL abzurufen: %s"
+
+#: includes/class-simply-static-archive-creator.php:284
+#: includes/class-simply-static-archive-creator.php:291
+msgid "Could not delete temporary file or directory: %s"
+msgstr "Konnte die temporäre Datei bzw. das Verzeichnis nicht löschen: %s"
+
+#: includes/class-simply-static-archive-creator.php:215
+msgid "Unable to create ZIP archive"
+msgstr "ZIP-Archiv konnte nicht erstellt werden."
