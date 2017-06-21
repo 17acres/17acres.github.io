@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Seventeen Acres</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<title>asdf &#8211; Seventeen Acres</title>
+	<atom:link href="/category/asdf/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
 	<lastBuildDate>Wed, 21 Jun 2017 17:22:33 +0000</lastBuildDate>
@@ -30,20 +30,6 @@
 		<description><![CDATA[]]></description>
 				<content:encoded><![CDATA[]]></content:encoded>
 			<wfw:commentRss>/2017/06/21/asdfasdf/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>asdf</title>
-		<link>/2017/06/21/asdf/</link>
-		<comments>/2017/06/21/asdf/#respond</comments>
-		<pubDate>Wed, 21 Jun 2017 17:20:06 +0000</pubDate>
-		<dc:creator><![CDATA[dan]]></dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
-
-		<guid isPermaLink="false">/?p=29</guid>
-		<description><![CDATA[]]></description>
-				<content:encoded><![CDATA[]]></content:encoded>
-			<wfw:commentRss>/2017/06/21/asdf/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

@@ -6,11 +6,11 @@
 	
 	>
 <channel>
-	<title>Comments for Seventeen Acres</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<title>Comments on: asdf</title>
+	<atom:link href="/2017/06/21/asdf/feed/" rel="self" type="application/rss+xml" />
+	<link>/2017/06/21/asdf/</link>
 	<description></description>
-	<lastBuildDate>Wed, 21 Jun 2017 17:22:46 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 21 Jun 2017 17:22:51 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.8</generator>
