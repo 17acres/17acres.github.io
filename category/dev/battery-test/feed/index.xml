@@ -10,10 +10,20 @@
 	<atom:link href="http://www.17acr.com/category/dev/battery-test/feed" rel="self" type="application/rss+xml" />
 	<link>http://www.17acr.com/category/dev/battery-test</link>
 	<description>Random Engineering Hacks</description>
-	<lastBuildDate>Wed, 02 Aug 2017 15:36:00 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 02 Aug 2017 16:58:00 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>By: Dan</title>
+		<link>http://www.17acr.com/category/dev/battery-test#comment-4</link>
+		<dc:creator><![CDATA[Dan]]></dc:creator>
+		<pubDate>Wed, 02 Aug 2017 16:58:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.17acr.com/?p=97#comment-4</guid>
+		<description><![CDATA[hi]]></description>
+		<content:encoded><![CDATA[<p>hi</p>
+]]></content:encoded>
+	</item>
 	<item>
 		<title>By: Dan</title>
 		<link>http://www.17acr.com/category/dev/battery-test#comment-3</link>
