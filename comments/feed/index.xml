@@ -7,12 +7,32 @@
 	>
 <channel>
 	<title>Comments for Seventeen Acres</title>
-	<atom:link href="/comments/feed" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="http://www.17acr.com/comments/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.17acr.com</link>
 	<description>Random Engineering Hacks</description>
-	<lastBuildDate>Tue, 01 Aug 2017 20:47:18 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 02 Aug 2017 15:36:00 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>Comment on Battery Test by Dan</title>
+		<link>http://www.17acr.com/category/dev/battery-test#comment-3</link>
+		<dc:creator><![CDATA[Dan]]></dc:creator>
+		<pubDate>Wed, 02 Aug 2017 15:36:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.17acr.com/?p=97#comment-3</guid>
+		<description><![CDATA[hello]]></description>
+		<content:encoded><![CDATA[<p>hello</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Battery Test by Dan</title>
+		<link>http://www.17acr.com/category/dev/battery-test#comment-2</link>
+		<dc:creator><![CDATA[Dan]]></dc:creator>
+		<pubDate>Wed, 02 Aug 2017 15:35:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.17acr.com/?p=97#comment-2</guid>
+		<description><![CDATA[hi]]></description>
+		<content:encoded><![CDATA[<p>hi</p>
+]]></content:encoded>
+	</item>
 </channel>
 </rss>

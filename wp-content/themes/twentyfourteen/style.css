@@ -1078,7 +1078,7 @@ span + .edit-link:before,
  */
 
 .post-thumbnail {
-	background: #b2b2b2 url(/wp-content/themes/twentyfourteen/images/pattern-light.svg) repeat fixed;
+	background: #b2b2b2 url(http://www.17acr.com/wp-content/themes/twentyfourteen/images/pattern-light.svg) repeat fixed;
 	display: block;
 	position: relative;
 	width: 100%;
@@ -2899,7 +2899,7 @@ a.post-thumbnail:hover {
  */
 
 .featured-content {
-	background: #000 url(/wp-content/themes/twentyfourteen/images/pattern-dark.svg) repeat fixed;
+	background: #000 url(http://www.17acr.com/wp-content/themes/twentyfourteen/images/pattern-dark.svg) repeat fixed;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing:    border-box;
 	box-sizing:         border-box;
