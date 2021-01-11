@@ -1,0 +1,7 @@
+{
+    "search.exclude": {
+        "**/_site": true,
+        "**/oldstuff": true,
+        "**/.jekyll-cache": true
+    }
+}
