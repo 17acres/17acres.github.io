@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SlidyTension"
-subtitle: "Tensing chain by sliding the axle position. Like a chainsaw."
+subtitle: "Tensioning chain by sliding the axle position. Like a chainsaw."
 date: 2016-10-16 00:00:00 -0500
 background: '/img/posts/slidytension/bg.jpg'
 ---
