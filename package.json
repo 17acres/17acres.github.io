@@ -32,6 +32,5 @@
         "startbootstrap-clean-blog": "5.0.9"
     },
     "devDependencies": {
-        "gulp": "4.0.2"
     }
 }
