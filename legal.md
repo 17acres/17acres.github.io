@@ -9,7 +9,7 @@ The MIT License (MIT)
 
 Copyright (c) 2013-2020 Start Bootstrap LLC
 
-Copyright (c) 2021 Daniel Nichols DBA Seventeen Acres of Washtenaw County, Michigan, US
+Copyright (c) 2021 Daniel Nichols
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
